@@ -30,3 +30,8 @@ Comandos basícos do Git visto em Aula
 `git merge` (NOME DA BRANCH) - é a unificação entre duas branch
 
 `git remote -v` - Indica repositorios remotos
+
+`git pull --rebase´ - Usado para fazer um pull linear
+
+`git rebase origin/master´ - Usado para fazer um pull linear
+
